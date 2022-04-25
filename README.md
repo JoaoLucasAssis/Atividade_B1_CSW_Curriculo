@@ -4,4 +4,4 @@ Atividade avaliativa do primeiro bimestre na matéria de Construção de Softwar
 
 Criação de um currículo através de HTML e CSS.
 
-Postado por meio do GitHub Pages <https://joaolucasassis.github.io/Atividade_B1_CSW_Curriculo/>.
+Postado por meio do GitHub Pages <https://joaolucasassis.github.io/Curriculo/>.

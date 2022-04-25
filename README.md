@@ -1,4 +1,4 @@
-# Atividade_B1_CSW_Curriculo
+# Curriculo
 ## Sobre
 Atividade avaliativa do primeiro bimestre na matéria de Construção de Software para Web.
 

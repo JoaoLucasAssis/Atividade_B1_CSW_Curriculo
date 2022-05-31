@@ -1,0 +1,72 @@
+.banner {
+    background-color:rgb(3, 21, 53); /*cor de fundo*/
+    width: 400px; /*largura 400 pixels*/
+    height: 1200px; /*altura 1200 pixels*/
+    margin: -10px; /*margem ao redor - 10 pixels*/
+}
+/*tags referente ao banner*/
+.banner     h1  {text-align: center; color:white; font-size: xx-large; font-family: Arial, Helvetica, sans-serif; margin-top: -25px;}
+.banner     h4  {text-align: center; color: white; font-size: medium; font-family: Arial, Helvetica, sans-serif; margin-top: -10px;}
+.banner     h5  {color: white; font-size: large; font-family: Arial, Helvetica, sans-serif; margin-left: 33px;}
+.banner     p   {color: white; font-size: medium; font-family: Arial, Helvetica, sans-serif; margin-left: 33px; margin-bottom: 50px;}
+.banner     hr  {width: 330px; margin-top: 50px; margin-bottom: 50px; opacity: 0.5;}
+
+
+.pagina {
+    margin-left: 450px; /*margem esquerda 450 pixels*/
+    margin-top: -1200px; /*margem acima -1200 pixels*/
+}
+/*tags referente à pagina*/
+.pagina     h3  {color: rgb(3, 21, 53); font-size: xx-large; font-family: Arial, Helvetica, sans-serif; margin-top: 50px;}
+.pagina     h6  {color: cadetblue; font-size: medium; font-family: Arial, Helvetica, sans-serif; margin-bottom: -5px;}
+.pagina     p   {color:rgb(80, 80, 80); font-size: medium; font-family: Arial, Helvetica, sans-serif;}
+.pagina     hr  {width: 750px; margin: 50px; opacity: 0.5;}
+
+.icon {
+    font-size: large; /*tamanho fonte grande*/
+    margin-right: 20px; /*margim direita 20 pixels*/
+    color:cadetblue;
+}
+
+
+.barra {
+    width: 350px; /*largura 350 pixels*/
+    background-color: darkslategrey;
+    margin-left: 33px; /*margem esquerda 33 pixels*/
+    margin-right: 33px; /*margem direita 33 pixels*/
+}
+.portugues {
+    width: 100%; /*100% da largura da barra*/
+    height: 5px; /*altura 5 pixels*/
+    background-color: cadetblue;
+}
+.espanhol {
+    width: 40%; /*40% da largura da barra*/
+    height: 5px; /*altura 5 pixels*/
+    background-color: cadetblue;
+}
+.ingles {
+    width: 75%; /*75% da largura da barra*/
+    height: 5px; /*altura 5 pixels*/
+    background-color: cadetblue;
+}
+
+
+img {
+    width: 270px; /*largura 270 pixels*/
+    height: 270px; /*altura 270 pixels*/
+    border-radius: 100%;  /*borda 100%*/
+    margin: 40px;  /*margem 40 pixels*/
+}
+
+
+ul {
+    color: black;
+    font-size: medium;  /*tamanho da fonte*/
+    font-family: Arial, Helvetica, sans-serif;  /*família da fonte*/
+    margin-top: 20px;  /*margem acima 20 pixels*/
+    list-style-type: square;  /*tipo de estilo de lista (quadrado)*/
+}
+li {
+    margin-bottom: 20px;  /*margem abaixo 20 pixels*/
+}

@@ -16,7 +16,7 @@
 
 * Desenvolvimento de uma Página Web de acordo com os wireframes criados na matéria de ***Experiência e Interface com o Usuário***.
 
-* Ir para a página inicial do [formulário](https://joaolucasassis.github.io/uvv_csw_1_cc1m/formulário_cadastro).
+* Ir para a página inicial do [formulário](https://joaolucasassis.github.io/uvv_csw_1_cc1m/formulário_cadastro/index.html).
 
 ## Como funciona o JavaScript
 

@@ -1,4 +1,8 @@
-# uvv_csw_1_cc1m
+# Construção de Software para Web
+
+**Aluno: João Lucas de Assis Oliveira**
+
+**Professor: Alessandro Bertolani Oliveira**
 
 ## Sobre
 

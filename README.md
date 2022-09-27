@@ -2,7 +2,7 @@
 
 **Aluno: João Lucas de Assis Oliveira**
 
-**Professor: Alessandro Bertolani Oliveira**
+**Professor: Ricardo Bahia**
 
 ## Sobre
 
